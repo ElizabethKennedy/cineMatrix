@@ -1,1 +1,2 @@
-![cinema-resized](https://user-images.githubusercontent.com/110371718/206243430-bf7e1fe9-c505-4398-baed-9123fff8d540.jpg)
+
+![CineMatrix](https://user-images.githubusercontent.com/110371718/206262375-f98cf8e4-eb9b-45a4-a9db-b86ce1e3f73b.png)
