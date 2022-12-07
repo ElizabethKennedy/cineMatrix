@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { GlobalContext } from "../context/GlobalState";
 
 const IMG_API = "https://image.tmdb.org/t/p/w200";
-const default_image = "";
+const default_image ="./images/CineMatrix.png";
 
 export const SearchResults = ({ movie }) => {
 
