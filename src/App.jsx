@@ -17,9 +17,13 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
+
           <Route path="/watchlist" element={<Watchlist />} />
+
           <Route path="/watched" element={<Watched />} />
+
           <Route path="/search" element={<Search />} />
+
         </Routes>
       </Router>
     </GlobalProvider>
