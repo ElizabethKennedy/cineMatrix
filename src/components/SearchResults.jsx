@@ -2,8 +2,7 @@ import React, { useContext } from "react";
 import { GlobalContext } from "../context/GlobalState";
 
 const IMG_API = "https://image.tmdb.org/t/p/w200";
-const default_image ="./images/CineMatrix.png";
-
+const default_image = "https://image.tmdb.org/t/p/w500/8uO0gUM8aNqYLs1OsTBQiXu0fEv.jpg"
 export const SearchResults = ({ movie }) => {
 
     const { addMovieToWatchlist, addMovieToWatched, watchlist, watched } = useContext(GlobalContext);

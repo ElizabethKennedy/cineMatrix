@@ -1,10 +1,12 @@
 import React, { useState } from "react";
 import { SearchResults } from "./SearchResults";
 
-const API_KEY = ": b2d5db98eea2647aecffb2ba011067a6";
+const API_KEY = "b2d5db98eea2647aecffb2ba011067a6";
 
 export const Search = () => {
+
   const [ results, setResults ] = useState([]);
+
   const [ searchTerm, setSearchTerm ] = useState("");
 
   const handleOnChange = (e) => {

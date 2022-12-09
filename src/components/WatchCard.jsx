@@ -2,7 +2,7 @@ import React from "react";
 import { MovieControls } from "./MovieControls";
 
 const IMG_API = "https://image.tmdb.org/t/p/w1280";
-const default_image = "./images/myke-simonatsUqlm3wxo-unsplash.jpg";
+const default_image = "";
 
 const setRatingClass = (rating) => {
     if(rating >= 7.5) {

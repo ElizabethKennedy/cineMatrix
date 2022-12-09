@@ -3,7 +3,7 @@ import { Movie } from "./Movie";
 
 
 //The Movie DB API key //
-const API_KEY = " b2d5db98eea2647aecffb2ba011067a6";
+const API_KEY = "b2d5db98eea2647aecffb2ba011067a6";
 
 
 //... and url address//

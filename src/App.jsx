@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { GlobalProvider } from "./context/GlobalState";
 import { Header } from "./components/Header";
 import { Home } from "./components/Home";
-import { Watchlist } from "./components/WatchList";
+import { Watchlist } from "./components/Watchlist";
 import { Watched } from "./components/Watched";
 import { Search } from "./components/Search";
 import './index.css';
