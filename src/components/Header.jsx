@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../flicks-logo.png"
+import logo from "./CineMatrix-Logo.png"
 
 export const Header = () => {
   return (
  <header>
 <div className="container">
 <div className="inner-content">
-<img src={logo} alt="flicks logo" />
+<img src={logo} alt="CineMatrix-Logo" />
 <ul className="nav-links">
 <li>
  <Link to="/">Home</Link>

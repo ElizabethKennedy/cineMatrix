@@ -1,4 +1,4 @@
-/*export const AppReducer = (state, action) => {
+export const AppReducer = (state, action) => {
     switch(action.type) {
         case "ADD_MOVIE_TO_WATCHLIST":
             return {
@@ -39,4 +39,4 @@
             return state;
     }
 }
-*/
+

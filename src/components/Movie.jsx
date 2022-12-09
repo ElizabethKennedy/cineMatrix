@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { GlobalContext } from "../context/GlobalState";
 
 const IMG_API = "https://image.tmdb.org/t/p/w1280";
-const default_image = "";
+const default_image = "./CineMatrix-Logo.png";
 const setRatingClass = (rating) => {
     if(rating >= 7.5) {
         return "green"
