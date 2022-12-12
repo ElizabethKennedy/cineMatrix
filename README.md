@@ -1,2 +1,1 @@
-
-![CineMatrix](https://user-images.githubusercontent.com/110371718/206262375-f98cf8e4-eb9b-45a4-a9db-b86ce1e3f73b.png)
+<img width="537" alt="CineMatrix-Logo-New" src="https://user-images.githubusercontent.com/110371718/207118841-12193748-80f3-4e9d-92af-e1f4e5c3b9e9.png">
