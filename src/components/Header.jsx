@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "./CineMatrix-Logo-text-only.png"
+import logo from "./cinematrix-logo-reel.png"
 
 export const Header = () => {
   return (
