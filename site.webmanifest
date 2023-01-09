@@ -1,6 +1,6 @@
 {
-    "name": "CineMatrix",
-    "short_name": "Movie-App",
+    "name": "cinematrix",
+    "short_name": "cinematrix",
     "icons": [
         {
             "src": "./public/android-chrome-192x192.png",
