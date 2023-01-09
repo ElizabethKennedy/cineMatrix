@@ -1,6 +1,6 @@
 {
-  "short_name": "CineMatrix",
-  "name": "Movie-App",
+  "short_name": "cinematrix",
+  "name": "cinematrix",
   "icons": [
     {
       "src": "./public/favicon.ico",
