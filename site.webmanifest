@@ -28,12 +28,13 @@
             "type":"image/png"
         },
         {
-            "src":"./mstile-150x150.png",
-            "sizes": "150x150",
+            "src":"./mstile-270x270.png",
+            "sizes": "270x270",
             "type":"image.png"
 
         }
     ],
+    "homepage":"https://elizabethkennedy.github.io/cinematrix",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone"

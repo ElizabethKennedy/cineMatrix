@@ -12,7 +12,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "gh-pages": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,10 +21,6 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ElizabethKennedy/cinematrix.git"
   },
 
   "eslintConfig": {
@@ -44,11 +41,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/ElizabethKennedy/cinematrix",
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
+  "homepage": "https://elizabethkennedy.github.io/cinematrix"
   }
 
 
 
-}
+
