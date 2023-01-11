@@ -26,12 +26,6 @@
             "src":"./favicon-32x32.png",
             "sizes":"32x32",
             "type":"image/png"
-        },
-        {
-            "src":"./mstile-270x270.png",
-            "sizes": "270x270",
-            "type":"image.png"
-
         }
     ],
     "homepage":"https://elizabethkennedy.github.io/cinematrix",
