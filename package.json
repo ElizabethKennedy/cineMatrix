@@ -2,7 +2,7 @@
   "name": "cinematrix",
   "version": "0.1.0",
   "private": true,
-  "main": "./src/App.jsx",
+  "main": "App.jsx",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -21,6 +21,11 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethKennedy/cinematrix.git"
+  },
+
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -39,10 +44,11 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://github.com/ElizabethKennedy/cinematrix",
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "https://elizabethkennedy.github.io/cinematrix"
+  }
+
 
 
 }
