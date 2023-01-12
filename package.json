@@ -1,7 +1,6 @@
 {
   "name": "cinematrix",
   "version": "0.1.0",
-  "private": true,
   "main": "App.jsx",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -15,7 +14,7 @@
     "web-vitals": "^2.1.4",
     "gh-pages": "^4.0.0"
   },
-  "scripts": {
+   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
@@ -42,7 +41,7 @@
     ]
   },
   "homepage": "https://elizabethkennedy.github.io/cinematrix"
-  }
+}
 
 
 
