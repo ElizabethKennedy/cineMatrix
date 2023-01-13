@@ -28,7 +28,6 @@
             "type":"image/png"
         }
     ],
-    "homepage":"https://elizabethkennedy.github.io/cinematrix",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone"
