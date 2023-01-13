@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cinematrix/static/css/main.121bd613.css",
+    "main.js": "/cinematrix/static/js/main.563032e3.js",
+    "static/media/fa-brands-400.svg": "/cinematrix/static/media/fa-brands-400.63b566233f163d538cce.svg",
+    "static/media/fa-solid-900.eot": "/cinematrix/static/media/fa-solid-900.7eefe04dc985dd4ad38b.eot",
+    "static/media/fa-solid-900.ttf": "/cinematrix/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/fa-brands-400.eot": "/cinematrix/static/media/fa-brands-400.bfcc3384b8a317dc5de3.eot",
+    "static/media/fa-brands-400.ttf": "/cinematrix/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/cinematrix/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/cinematrix/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-brands-400.woff2": "/cinematrix/static/media/fa-brands-400.31015e861aeb30ff8355.woff2",
+    "static/media/fa-regular-400.eot": "/cinematrix/static/media/fa-regular-400.0747be4cba2f8600544f.eot",
+    "static/media/fa-regular-400.ttf": "/cinematrix/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/cinematrix-logo-reels-white.png": "/cinematrix/static/media/cinematrix-logo-reels-white.b4893259037aa00b8560.png",
+    "static/media/fa-regular-400.woff": "/cinematrix/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "index.html": "/cinematrix/index.html",
+    "main.121bd613.css.map": "/cinematrix/static/css/main.121bd613.css.map",
+    "main.563032e3.js.map": "/cinematrix/static/js/main.563032e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.121bd613.css",
+    "static/js/main.563032e3.js"
+  ]
+}
